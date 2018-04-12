@@ -7,7 +7,7 @@ This requires the ncurses library to link against during compilation. It is avai
 in most package managers.
 
 ### Get
-    git clone https://github.com/m-alaa8/bouncing-gnu.git
+    git clone https://github.com/m-alaa8/bounce-gnu.git
     make
 ### Run
     ./bounce   
